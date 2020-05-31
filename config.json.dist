@@ -1,0 +1,6 @@
+{
+  // Token for telegram bot.
+  "tel_bot_token": "*******:*********",
+  "log_file": "gate_tel-bot-log.log",
+  "users_file": "users_file.json"
+}
